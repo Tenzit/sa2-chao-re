@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### chao_gen.py
+### `chao_gen.py`
 
 `chao_gen.py` will search for a chao with given stats and output the
 rng call that said chao would be generated on.
@@ -28,7 +28,7 @@ RNG Calls: 147 Seed: 0x5c58fca5 Method C: Swim 2, Fly 1, Run 5, Power 3, Stam 2,
 
 See `chao_gen.py --help` for a full list of options
 
-### chao_animals_solver.py
+### `chao_animals_solver.py`
 
 `chao_animals_solver.py` will output the minimal number of animal glitches
 required to get to 99 all from a given starting amount of XP.
