@@ -40,3 +40,5 @@ code to modify any arguments.
 
 `chao_animals_solver.py` isn't perfect, as there are some issues with rounding
 that are unaccounted for.
+
+Precompiled output for `chao_animals_solver.py` can be found [here](https://docs.google.com/spreadsheets/d/1FHMvaWnWC4HbsPgm9Bub-4SDc81BehPF845I2NJZjW0/edit#gid=0)
